@@ -6,6 +6,8 @@
   <a href="mailto:pranshu2.71828@gmail.com?subject=Hello%20Pranshu,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=pranshu314&icon=9&color=10" alt="pranshu314" /> </p>
+
 
 
 <!--
