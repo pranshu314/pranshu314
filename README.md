@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=100&color=4169E1&center=true&vCenter=true&multiline=true&random=false&width=890&height=100&lines=Pranshu+Goyal;A+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=100&color=4169E1&center=true&vCenter=true&multiline=true&random=false&width=100%&height=100&lines=Pranshu+Goyal;A+Software+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/pranshu-goyal-55b81525b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
