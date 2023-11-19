@@ -5,7 +5,7 @@
   <a target="_blank"href="https://twitter.com/Pranshu07350799"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pranshu2.71828@gmail.com?subject=Hello%20Pranshu,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-[![](https://visitcount.itsvg.in/api?id=pranshu314&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![pranshu314](https://visitcount.itsvg.in/api?id=pranshu314&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 
