@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=100&color=4169E1&center=true&vCenter=true&multiline=true&random=false&width=890&height=100&lines=Pranshu+Goyal;A+Software+Engineer)](https://git.io/typing-svg)
 
+<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Pranshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranshu-goyal-55b81525b)](https://www.linkedin.com/in/pranshu-goyal-55b81525b)
-
+</p>
 
 
 <!--
