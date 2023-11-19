@@ -6,11 +6,6 @@
   <a href="mailto:pranshu2.71828@gmail.com?subject=Hello%20Pranshu,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=pranshu314&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
-
-
 
 
 <!--
