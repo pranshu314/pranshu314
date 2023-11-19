@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Pranshu+Goyal;Software+Engineer)](https://git.io/typing-svg)
 
 <!--
 **pranshu314/pranshu314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
