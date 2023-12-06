@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=pranshu314&style=for-the-badge)
+<a href="https://github.com/pranshu314">
+  <img src="https://komarev.com/ghpvc/?username=pranshu314&style=for-the-badge">
+</a>
 </p>
 
 ## Activity on Github
