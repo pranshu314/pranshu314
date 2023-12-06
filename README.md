@@ -23,6 +23,11 @@
 </a>
 </p>
 
+## Stats
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=pranshu31420&hide_border=true&show_icons=true&count_private=true&theme=tokyo-night&bg_color=151515">
+</p>
+
 ## Activity on Github
 <p align="center">
 <a href="https://github.com/pranshu314">
