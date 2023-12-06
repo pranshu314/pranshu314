@@ -28,7 +28,7 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=pranshu314&hide_border=true&show_icons=true&count_private=true&theme=tokyonight">
 </p>
 
-## Activity on Github
+## Activity
 <p align="center">
 <a href="https://github.com/pranshu314">
   <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=pranshu314&theme=blueberry-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
