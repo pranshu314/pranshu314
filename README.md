@@ -25,7 +25,7 @@
 
 ## Stats
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=pranshu314&hide_border=true&show_icons=true&count_private=true&theme=tokyo-night">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=pranshu314&hide_border=true&show_icons=true&count_private=true&theme=tokyo-night&bg_color=161616">
 </p>
 
 ## Activity on Github
