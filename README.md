@@ -27,6 +27,7 @@
 <p align="center">
 <a href="https://github.com/pranshu314">
   <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=pranshu314&theme=blueberry-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshu314&theme=tokyo-night&custom_title=Pranshu314%20Activity%20Graph&hide_border=false">
 </a>
 </p>
 
