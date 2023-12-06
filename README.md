@@ -16,6 +16,10 @@
 <p align="center">
 <a href="https://github.com/pranshu314">
   <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,git,github,githubactions,go,html,js,linux,mongodb,mysql,neovim,nginx,nodejs,postgres,postman,prisma,py,react,sqlite,tailwind,ts">
+  <!--
+    Potential more icons are
+    ansible, grafana, graphql, jenkins, kafka, kubernetes, latex, prometheus
+  -->
 </a>
 </p>
 
